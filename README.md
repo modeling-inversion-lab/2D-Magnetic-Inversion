@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/modeling-inversion-lab/2D-Magnetic-Inversion.svg)](http://hits.dwyl.com/modeling-inversion-lab/2D-Magnetic-Inversion)
+
 # 2D-Magnetic-Inversion
 **Last update**: September 14, 2019
 
