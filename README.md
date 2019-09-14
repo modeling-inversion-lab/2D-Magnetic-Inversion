@@ -5,17 +5,17 @@ We succesfully develop:
 1) Least-Square Inversion (Under-determined) without constrains + field data
 
 <a Least-Square Inversion href="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion">
-  <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/ls.png" width="100%">
+  <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/ls.png" width="80%">
 </a>
 
 2) Compact Inversion without constrains + field data
 
 <a Least-Square Inversion href="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion">
-  <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/compact.png" width="100%">
+  <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/compact.png" width="80%">
 </a>
 
 3) Particle Swarm Optimization (PSO) without constrains + field data
 
 <a Least-Square Inversion href="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion">
-  <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/pso.png" width="100%">
+  <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/pso.png" width="80%">
 </a>
