@@ -1,4 +1,6 @@
 [![HitCount](http://hits.dwyl.com/modeling-inversion-lab/2D-Magnetic-Inversion.svg)](http://hits.dwyl.com/modeling-inversion-lab/2D-Magnetic-Inversion)
+![GitHub language count](https://img.shields.io/github/languages/count/modeling-inversion-lab/2D-Magnetic-Inversion)
+![GitHub top language](https://img.shields.io/github/languages/top/modeling-inversion-lab/2D-Magnetic-Inversion)
 
 # 2D-Magnetic-Inversion
 **Last update**: September 14, 2019
