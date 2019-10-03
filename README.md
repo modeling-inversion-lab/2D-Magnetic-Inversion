@@ -2,6 +2,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/modeling-inversion-lab/2D-Magnetic-Inversion)
 ![GitHub top language](https://img.shields.io/github/languages/top/modeling-inversion-lab/2D-Magnetic-Inversion)
 
+![GitHub contributors](https://img.shields.io/github/contributors/modeling-inversion-lab/2D-Magnetic-Inversion)
+![GitHub All Releases](https://img.shields.io/github/downloads/modeling-inversion-lab/2D-Magnetic-Inversion/total)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/modeling-inversion-lab/2D-Magnetic-Inversion)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/modeling-inversion-lab/2D-Magnetic-Inversion)
 
