@@ -35,3 +35,8 @@ We succesfully develop:
 <a Least-Square Inversion href="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion">
   <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/pso.png" width="80%">
 </a>
+
+We will update our progress that include:
+1. Create new model and free-noisy and noisy synthetic data.
+2. PSO inversion with constrains.
+3. Apply inversion to field data. 
