@@ -10,7 +10,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/modeling-inversion-lab/2D-Magnetic-Inversion)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/modeling-inversion-lab/2D-Magnetic-Inversion)
 
-# 2D-Magnetic-Inversion
+# 2D Magnetic Inversion
 **Last update**: September 14, 2019
 
 This page is here to explain the progress and update of developing 2D magnetic inversion using all inversion algorithm. We are developing this software using [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/72781-2d-magnetic-inversion). We are working under Modeling and Inversion Lab, Institut Teknologi Bandung, started in May 2019, and we are [mheriyanto](https://github.com/mheriyanto) and umarsaid. If you want to join with us, please contact mheriyanto37@gmail.com.
