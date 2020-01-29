@@ -40,3 +40,11 @@ We will update our progress that include:
 1. Create new model and free-noisy and noisy synthetic data.
 2. PSO inversion with constrains.
 3. Apply inversion to field data. 
+
+## Citation
+If you find this project useful for your research, please use the following BibTeX entry.
+
+**For forward modeling scripts**
+
+    @inproceedings{inproceedings, author = {Said, Umar and Heriyanto, Mohammad and Srigutomo, Wahyu}, year = {2016},
+    month = {12}, pages = {}, title = {Perbandingan Inversi Least-Square dengan Levenberg-Marquardt pada Metode Geomagnet untuk Model Crustal Block}}
