@@ -36,10 +36,11 @@ We succesfully develop:
   <img src="https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion/blob/master/images/pso.png" width="80%">
 </a>
 
+**4) Models, free-noisy and noisy synthetic data**
+
 We will update our progress that include:
-1. Create new model and free-noisy and noisy synthetic data.
-2. PSO inversion with constrains.
-3. Apply inversion to field data. 
+1. PSO inversion with constrains.
+2. Apply inversion to field data. 
 
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
