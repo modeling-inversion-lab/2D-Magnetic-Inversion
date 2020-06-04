@@ -13,7 +13,7 @@
 # 2D Magnetic Inversion
 **Last update**: September 14, 2019
 
-This page is here to explain the progress and update of developing 2D magnetic inversion using all inversion algorithm. We are developing this software using [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/72781-2d-magnetic-inversion). We are working under Modeling and Inversion Lab, Institut Teknologi Bandung, started in May 2019, and we are [mheriyanto](https://github.com/mheriyanto) and [Umar-Said](https://github.com/Umar-Said). If you want to join with us, please contact mheriyanto37@gmail.com.
+This page is here to explain the progress and update of developing 2D magnetic inversion using all inversion algorithm. We are developing this software using MATLAB. We are working under Modeling and Inversion Lab, Institut Teknologi Bandung, started in May 2019, and we are [mheriyanto](https://github.com/mheriyanto) and [Umar-Said](https://github.com/Umar-Said). If you want to join with us, please contact mheriyanto37@gmail.com.
 
 We succesfully develop:
 
