@@ -32,19 +32,27 @@ If you find this project useful for your research, please use the following BibT
 
 **For forward modeling scripts**
 
-    @inproceedings{inproceedings, author = {Said, Umar and Heriyanto, Mohammad and Srigutomo, Wahyu}, year = {2016},
-    month = {12}, pages = {}, title = {Perbandingan Inversi Least-Square dengan Levenberg-Marquardt pada Metode Geomagnet untuk Model Crustal Block}}
+```BibTeX
+@inproceedings{said2016perbandingan,
+  title={Perbandingan Inversi Least-Squares dengan Lavenberg Marquardt pada Metode Geomagnet untuk Model Crustal Block},
+  author={Said, U and Heriyanto, M and Srigutomo, W},
+  booktitle={Prosiding Seminar Kontribusi Fisika},
+  pages={433--400},
+  year={2016}
+}
+```
 
 **For inversion scripts**
 
-    @article{doi:10.1063/5.0037675,
-    author = {Sa’id,Umar  and Heriyanto,Mohammad  and Srigutomo,Wahyu },
-    title = {Comparison of damped least-squares inversion and particle swarm optimization (PSO) on magnetic data},
-    journal = {AIP Conference Proceedings},
-    volume = {2320},
-    number = {1},
-    pages = {040011},
-    year = {2021},
-    doi = {10.1063/5.0037675},
-    URL = { https://aip.scitation.org/doi/abs/10.1063/5.0037675},
-    eprint = {https://aip.scitation.org/doi/pdf/10.1063/5.0037675}}
+```BibTeX
+@inproceedings{sa2021comparison,
+  title={Comparison of damped least-squares inversion and particle swarm optimization (PSO) on magnetic data},
+  author={Sa’id, Umar and Heriyanto, Mohammad and Srigutomo, Wahyu},
+  booktitle={AIP Conference Proceedings},
+  volume={2320},
+  number={1},
+  pages={040011},
+  year={2021},
+  organization={AIP Publishing LLC}
+}
+```
